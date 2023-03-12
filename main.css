@@ -39,6 +39,7 @@ img{
 }
 .accordion__item{
     border-top: 1px solid #c2bdbd;
+    margin-bottom: 15px;
 }
 .accordion__title{
     display: block;
