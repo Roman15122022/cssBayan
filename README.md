@@ -1,2 +1,2 @@
 # cssBayan
-https://Roman15122022.github.io/cssBayan/cssBayan/index.html
+https://Roman15122022.github.io/cssBayan/index.html
